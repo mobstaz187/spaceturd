@@ -3,6 +3,7 @@ var twitter = "https://x.com/RocketSpaceturd";
 var contractaddress = "placeholder_for_updating";
 var password = "woof";
 var dex = "Transmitting TXN"
+var pumpfun = "https://pump.fun/coin/GQBLdWEnfBjS1XnMh3VUjzHWhcdazvd4EWDteXf2pump"
 
 transmission = [
   "<br>",
@@ -26,7 +27,8 @@ dex = [
 ];
 ca = [
     "<br>",
-    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">GQBLdWEnfBjS1XnMh3VUjzHWhcdazvd4EWDteXf2pump</a>',
+    'PumpFun        <a href="' + pumpfun + '" target="_blank">Updating' + '</a>',
     "<br>"
   ];
 RUFF = [
